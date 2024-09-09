@@ -13,6 +13,6 @@ This project demonstrates the use of REST Assured to automate API requests (GET,
 
 Make sure the following dependencies are included in your `pom.xml`:
 
-1-org.testng
-2-org.json
-3-io.rest-assured
+- org.testng
+- org.json
+- io.rest-assured
